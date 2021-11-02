@@ -33,8 +33,53 @@ body {
   color: white;
 }
 
+.sidenav form {
+  width: 80%;
+  text-decoration: none;
+  margin: 6em auto;
+  border-radius: 20px;
+  border: 0.5px medium black;
+  background-color: rgb(240, 240, 240);
+  color: black;
+  text-align: center;
+  overflow: hidden;
+  padding: 10px;
+}
+
+input#search {
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+}
+form .material-icons {
+  font-size: 2em;
+  display: flex;
+  justify-self: start;
+  margin-left: -0.7em;
+}
 @media screen and (min-width: 990px) {
   a.brand-logo {
     margin-left: 1.5em;
+  }
+
+  .right form {
+    width: 80%;
+    text-decoration: none;
+    border-radius: 20px;
+    border: 0.5px medium black;
+    background-color: rgb(240, 240, 240);
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin-top: 1em;
+  }
+
+  .right form .material-icons {
+    font-size: 2em;
+    margin-bottom: 2em;
+    position: relative;
+    bottom: 0.8em;
+    color: rgb(8, 8, 151);
   }
 }
