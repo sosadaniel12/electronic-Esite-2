@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sosadaniel12/electronic-Esite-2#readme",
   "dependencies": {
+<<<<<<< HEAD
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
     "dotenv": "^10.0.0",
@@ -35,5 +36,9 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.1"
+=======
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+>>>>>>> abae9eff73457b2a5d70ab0b353aeea0e65ddeb8
   }
 }
