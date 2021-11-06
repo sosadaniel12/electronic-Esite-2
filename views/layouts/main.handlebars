@@ -27,8 +27,11 @@
             <a href="sass.html"><i class="material-icons">shopping_cart</i></a>
           </li>
           <li>
-            <a href="badges.html"><i class="material-icons">person</i></a>
+            <a href="/login">Login</a>
           </li>
+                   <li>
+          <a href="#" id="logout">Logout</a>
+        </li>
           <li>
             <form>
               <div class="input-field">
@@ -42,13 +45,14 @@
         </ul>
       </div>
     </nav>
+
     <header>
       <ul class="sidenav" id="mobile-demo">
         <li>
           <a href="sass.html"><i class="material-icons">shopping_cart</i></a>
         </li>
-        <li>
-          <a href="badges.html"><i class="material-icons">person</i></a>
+         <li>
+          <a href="#" id="logout-link"><i class="material-icons">person</i></a>
         </li>
         <li>
         <form>
@@ -61,12 +65,15 @@
       </ul>
     </header>
     <main>
-      <div class="container"></div>
+      <div class="container">{{{body}}}</div>
     </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js
 "></script>
     <script src="./js/index.js"></script>
+    <script src="./js/logout.js"></script>
+      {{#if logged_in}}
+      {{/if}}
   </body>
 >>>>>>> abae9eff73457b2a5d70ab0b353aeea0e65ddeb8
 </html>
