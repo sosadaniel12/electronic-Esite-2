@@ -20,5 +20,7 @@ router.get("/login", (req, res) => {
 
   res.render("login");
 });
-
+router.get("/", (req, res) => {
+  res.render("shop", { text: test });
+});
 module.exports = router;
