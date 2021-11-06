@@ -1,10 +1,10 @@
 const sequelize = require("../config/connection");
-const electronicsdata = require("./electronic_seeds");
+const electronicsdata = require("./electronic_seeds.json");
+const Electronics = require("../models/electronics");
 
 const seedAll = async () => {
   await sequelize.sync({ force: true });
-
-  await electronicsdata();
+  await Electronics.bulkCreate(electronicsdata);
 
   process.exit(0);
 };
