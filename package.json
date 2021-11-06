@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch":"nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,8 @@
     "express-handlebars": "^5.3.4",
     "express-session": "^1.17.2",
     "mysql2": "^2.3.2",
-    "sequelize": "^6.9.0"
+    "sequelize": "^6.9.0",
+    "session": "^0.1.0"
+    "nodemon": "^2.0.14",
   }
 }
