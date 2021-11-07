@@ -66,6 +66,27 @@ form .material-icons {
   margin-top: 5em;
 }
 
+.card{
+  width:315px;
+  border:black solid 1px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  position: relative;
+  left: 15px;
+  font-family: 'Zen Antique', serif;
+}
+.card-title{
+  text-align: center;
+  font-family: 'Zen Antique', serif;
+}
+
 @media screen and (min-width: 990px) {
   a.brand-logo {
     margin-left: 1.5em;
