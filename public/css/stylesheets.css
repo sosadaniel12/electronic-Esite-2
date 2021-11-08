@@ -63,12 +63,31 @@ form .material-icons {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-top: 5em;
+  margin: 5em auto;
 }
 
 .card {
-  width: 315px;
-  border: black solid 1px;
+  max-width: 330px;
+  max-height: 50%;
+  border: black ridge 2px;
+  border-radius: 10px;
+  box-shadow: 12px 5px 8px 4px #4f5275c5;
+  margin: 0.5em;
+  margin-top: 2.5rem;
+}
+
+.card-title {
+  text-align: center;
+  font-family: "Zen Antique", serif;
+  padding: 1em;
+}
+
+.card .card-title {
+  font-size: 18px;
+}
+
+.card-body {
+  padding: 10px;
 }
 
 img {
@@ -80,16 +99,6 @@ p {
   position: relative;
   left: 15px;
   font-family: "Zen Antique", serif;
-}
-.card-title {
-  text-align: center;
-
-  font-family: "Zen Antique", serif;
-  padding: 1em;
-}
-
-.card .card-title {
-  font-size: 18px;
 }
 
 @media screen and (min-width: 990px) {
