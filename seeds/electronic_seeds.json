@@ -33,5 +33,15 @@
     "title": "SanDisk - Ultra 256GB USB 3.0 Type A Flash Drive - Black",
     "filename": "flashdrive.jpg",
     "price": "$24.99"
+  },
+  {
+    "title": "NVIDIA GeForce RTX 3070 8GB Graphics Card",
+    "filename": "GeForceRTX3070.webp",
+    "price": "$499.99"
+  },
+  {
+    "title": "GIGABYTE - NVIDIA GeForce RTX 3080 Ti AORUS MASTER 12GB 4.0 Graphics Card",
+    "filename": "GIGABYTE GeForceRTX 3080.jpg",
+    "price": "$1,649.99"
   }
 ]
