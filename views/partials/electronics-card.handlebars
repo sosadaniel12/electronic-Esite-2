@@ -1,8 +1,9 @@
 <section class="card">
-  <header>{{title}}</header>
+  <header class="card-title">{{title}}</header>
 
   <div class="card-body">
     <img src="/images/{{filename}}" />
     <p>Price: {{price}}</p>
+    <button class="btn btn-primary" @click="addToCart">Add to cart</button>
   </div>
 </section>
