@@ -27,7 +27,7 @@ Electronics.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    modal: {
+    model: {
       type: DataTypes.STRING,
       allowNull: false,
     },
