@@ -33,7 +33,7 @@ router.get("/login", (req, res) => {
 
   res.render("login");
 });
-router.get("/", (req, res) => {
-  res.render("shop", { text: test });
+router.get("/shop", (req, res) => {
+  res.render("shop");
 });
 module.exports = router;
