@@ -27,6 +27,10 @@ Electronics.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
+    modal: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
     price: {
       type: DataTypes.STRING,
       allowNull: false,
