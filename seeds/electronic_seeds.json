@@ -4,6 +4,7 @@
     "filename": "lenovo_chromebook.jpg",
     "description": "Fast, flexible, and fun, the Chromebook 3-14 brings everyone’s favorite Chromebook features, running on the lightning-fast Chrome OS that boots up in seconds, updates automatically, and is protected by built-in virus protection.",
     "sku": "6447140",
+    "modal": "82KN0001US",
     "price": "$149.00"
   },
   {
@@ -11,6 +12,7 @@
     "filename": "dell_laptop.jpg",
     "description": "The Inspiron range of laptops and 2-in1s are thoughtfully designed so you can stay connected wherever you are, with long-lasting battery life, these chic, lightweight devices can seamlessly connect your PC and smartphone.",
     "sku": "6458907",
+    "modal": "i7415-A906BLU-PUS",
     "price": "$599.00"
   },
   {
@@ -18,6 +20,7 @@
     "filename": "hp_laptop.jpg",
     "description": "See and do it all in perfect color: Bring it to life your way. The ENVY x360 15 gives you a dazzling FHD screen with Delta E less than 2 color accuracy and more ways to make your masterpiece with HP Quick Drop file sharing.",
     "sku": "6479178",
+    "modal": "15m-eu0043dx",
     "price": "$839.99"
   },
   {
@@ -25,6 +28,7 @@
     "filename": "samsung_monitor.jpg",
     "description": "Minimize eyestrain during long gaming sessions with this Samsung 27-inch RapidCurve gaming monitor. The 240Hz refresh rate eliminates lag, even in fast-paced scenes, while the curved design heightens concentration for a more immersive experience.",
     "sku": "6366122",
+    "modal": "LC27RG50FQNXZA",
     "price": "$249.99"
   },
   {
@@ -32,6 +36,7 @@
     "filename": "dell_monitor.webp",
     "description": "27” Full-HD curved gaming monitor with bold new design. Featuring 144Hz refresh rate and 1ms MPRT for smooth, immersive gameplay.",
     "sku": "6425903",
+    "modal": "HHGMY",
     "price": "$219.99"
   },
   {
@@ -39,6 +44,7 @@
     "filename": "wd.webp",
     "description": "Find a reliable storage solution for large files with this WD easystore external desktop hard drive. The USB 3.0 interface and backward-compatibility with USB 2.0 offer broad connectivity, while the automatic backup solution reduces the risk of data loss.",
     "sku": "6425303",
+    "modal": "WDBAMA0140HBK-NESN",
     "price": "$199.99"
   },
   {
@@ -46,6 +52,7 @@
     "filename": "flashdrive.jpg",
     "description": "Step up to high-speed USB 3.0 speeds and transfer your videos, photos and files up to ten times faster than standard USB 2.0 drives. SanDisk Ultra USB 3.0 Flash Drive takes the wait out of moving, sharing or backing up big files.",
     "sku": "9208267",
+    "modal": "SDCZ48-256G-A46",
     "price": "$24.99"
   }
 ]
