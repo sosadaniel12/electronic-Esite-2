@@ -2,10 +2,10 @@ $(document).ready(function () {
   $(".sidenav").sidenav();
 });
 
-$(".BuyForm .AddToCart").on("click", function (event) {
+$(".btn").on("click", function (event) {
   event.preventDefault();
 
-  var $form = $(this).closest(".BuyForm");
+  var $form = $(this).closest(".card");
 
   $.ajax({
     type: "POST",
