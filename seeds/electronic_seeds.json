@@ -60,7 +60,7 @@
     "filename": "GeForceRTX3070.webp",
     "description": "The GeForce RTX 3070 is powered by Ampere—NVIDIA’s 2nd gen RTX architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and high-speed G6 memory, it gives you the power you need to rip through the most demanding games.",
     "sku": "9208267",
-    "model": "9001G1422510000",
+    "modal": "9001G1422510000",
     "price": "$499.99"
   },
   {
@@ -68,7 +68,7 @@
     "filename": "GIGABYTE GeForceRTX 3080.jpg",
     "description": "Get the ultimate gaming performance with AORUS RTX 3080Ti Graphics Cards. Powered by NVIDIA's 2nd gen RTX architecture and refined with AORUS's Max Covered cooling technology.",
     "sku": "6468932",
-    "model": "GV-N308TAORUS M-12GD",
+    "modal": "GV-N308TAORUS M-12GD",
     "price": "$1,649.99"
   },
   {
@@ -76,7 +76,7 @@
     "filename": "XFX GamingCard.jpg",
     "description": "Introducing the AMD Radeon™ RX 6000 Series graphics cards, featuring the breakthrough AMD RDNA™ 2 architecture, engineered to deliver powerhouse performance for all gamers.",
     "sku": "6457619",
-    "model": "RX-67XTYTBDP",
+    "modal": "RX-67XTYTBDP",
     "price": "$999.99"
   },
   {
@@ -84,7 +84,7 @@
     "filename": "GIGABYTE GeForceRTX 3080.jpg",
     "description": "Get the ultimate gaming performance with AORUS RTX 3080Ti Graphics Cards. Powered by NVIDIA's 2nd gen RTX architecture and refined with AORUS's Max Covered cooling technology.",
     "sku": "6468932",
-    "model": "GV-N308TAORUS M-12GD",
+    "modal": "GV-N308TAORUS M-12GD",
     "price": "$1,649.99"
   },
   {
@@ -92,7 +92,7 @@
     "filename": "ASUS GeForceRTX3080Ti.jpg",
     "description": "From top to bottom, the ROG Strix GeForce RTX 3080 has been designed to push performance boundaries. A fresh design and more metal surrounds a grouping of Axial-tech fans that leverage a new rotation scheme.",
     "sku": "6466931",
-    "model": "ROG-STRIX-RTX3080TI-O12G-GAMIN",
+    "modal": "ROG-STRIX-RTX3080TI-O12G-GAMIN",
     "price": "$2,099.99"
   }
 ]
