@@ -110,7 +110,12 @@ p {
   width: 90%;
   font-family: "Zen Antique", serif;
 }
-
+.logo{
+  height:64px;
+}
+footer{
+  background-color: black;
+}
 @media screen and (min-width: 990px) {
   a.brand-logo {
     margin-left: 1.5em;
