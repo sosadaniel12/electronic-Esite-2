@@ -4,9 +4,11 @@
   <div class="card-body">
     <img src="/images/{{filename}}" />
     <p class="des">Description: {{description}}</p>
-    <p>Sku # {{sku}}</p>
-    <p>Model # {{model}}</p>
-    <p>Price: {{price}}</p>
+    <div class="info">
+      <p>Sku # {{sku}}</p>
+      <p>Model # {{model}}</p>
+      <p>Price: {{price}}</p>
+    </div>
     <button class="btn btn-primary" @click="addToCart">Add to cart</button>
   </div>
 </section>
