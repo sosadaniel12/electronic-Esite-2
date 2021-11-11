@@ -136,7 +136,12 @@ p {
   margin-top: 2rem;
   color: white;
 }
-
+.logo{
+  height:64px;
+}
+footer{
+  background-color: black;
+}
 @media screen and (min-width: 990px) {
   a.brand-logo {
     margin-left: 1.5em;
